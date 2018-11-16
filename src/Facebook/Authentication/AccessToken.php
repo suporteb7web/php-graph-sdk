@@ -1,4 +1,5 @@
 <?php
+/* alteração de teste */
 /**
  * Copyright 2017 Facebook, Inc.
  *
